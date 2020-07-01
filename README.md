@@ -10,3 +10,6 @@ README.md
 8. Calculator2
 9. Number Guessing Game
 10. Time Modul
+11. Factorial
+12. Fibonacci
+13. Armstrong
